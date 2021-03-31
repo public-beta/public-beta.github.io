@@ -1,0 +1,15 @@
+Package:com.noah.remastered14
+Name:Remastered14 Beta
+Version:0.2
+Architecture:iphone-arm
+Description:ios 14 but reimagined icons. version 2.0 will be announced shortly with more icons included.
+Author:Noah Wolcott  
+Section:Themes
+Depends: 
+Maintainer:Noah Wolcott 
+Filename:./debs/com.noah.remastered14_0.2_iphoneos-arm.deb
+Depiction:https://github.com/Th3me-me/th3me-me.github.io
+Size:152250
+MD5sum:0d568e9f4b187aa7abe394153f7cdc40
+
+

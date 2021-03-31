@@ -1,0 +1,30 @@
+<packageInfo>
+    <bundleId>com.noah.remastered14</bundleId>
+    <name>Remastered14</name>
+    <version>0.2</version>
+    <descriptions>
+        <description>
+            a preveiw build of my upcoming theme called remastered14
+        </description>
+        <description>
+            this is ios 14 just revamped with some icons I thought would be better :)
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>12.0</miniOS>
+        <maxiOS>14.3</maxiOS>
+    </compatibility>
+    <dependencies>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V0.2 </changeVersion>
+            <changeDescription>developer test version 2</changeDescription>
+            <changeDescription>developer test version 2</changeDescription>
+        </change>
+        <change>
+            <changeVersion>V0.1</changeVersion>
+            <changeDescription>developer testing before public beta</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
